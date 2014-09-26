@@ -1,0 +1,14 @@
+Tyler Arseneault
+September 22, 2014
+Lab Assignment 3
+
+To compile and run the program:
+
+Step 1: In terminal, change directory to CS2010/Lab3/craps
+Step 2: Type "make" into the terminal
+Step 3: Type "./craps" into the temrinal
+
+The die will roll automatically, and the added result will display on the screen. When the game asks you if you'd like to play again, type 'y' for yes or 'n' for no and hit enter.
+
+Github URL: https://github.com/TylerA73/lab3.git
+
